@@ -135,5 +135,5 @@ SemEvalv4/
 
 ---
 <div align="center">
-  <i>Submitted for Review - IEEE Transactions on Affective Computing</i>
+  <!-- <i>Submitted for Review - IEEE Transactions on Affective Computing</i> -->
 </div>
