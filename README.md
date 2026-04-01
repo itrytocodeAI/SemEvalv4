@@ -131,7 +131,7 @@ SemEvalv4/
 ├── requirements.txt         # Freeze Data
 └── README.md
 ```
-*(Folders marked with `*` are `.gitignore`-protected to ensure rapid pull-request operations).*
+<!-- *(Folders marked with `*` are `.gitignore`-protected to ensure rapid pull-request operations).* -->
 
 ---
 <div align="center">
